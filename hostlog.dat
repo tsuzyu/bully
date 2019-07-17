@@ -1,0 +1,1130 @@
+--------------------------[NEW BULLY]---------------------------
+
+[12484]Initialization is complete
+
+[21249]Initialization is complete
+
+[46380]Initialization is complete
+
+[20575]Initialization is complete
+
+[13322]Initialization is complete
+
+[12484]start election
+
+[12484]sending elect message
+
+[12484]waiting for alive message
+
+[21249]start election
+
+[21249]sending elect message
+
+[21249]waiting for alive message
+
+[21249]sent im alive to  12484
+
+[46380]start election
+
+[46380]no higher id
+
+[46380]now leader is: 46380
+
+[46380]start to send victory message
+
+[21249]received victory message
+
+[21249]victory message updated
+
+[21249]now leader is: 46380
+
+[20575]start election
+
+[20575]sending elect message
+
+[20575]waiting for alive message
+
+[46380]sent im alive to  12484
+
+[46380]received elsect msg,start election
+
+[46380]sent im alive to  21249
+
+[46380]received elsect msg,start election
+
+[46380]sent im alive to  20575
+
+[46380]received elsect msg,start election
+
+[21249]sent im alive to  20575
+
+[21249]received elsect msg,start election
+
+[21249]received alive message
+
+[13322]start election
+
+[13322]sending elect message
+
+[13322]waiting for alive message
+
+[46380]sent im alive to  13322
+
+[46380]received elsect msg,start election
+
+[46380]start election
+
+[46380]no higher id
+
+[46380]now leader is: 46380
+
+[46380]start to send victory message
+
+[46380]start election
+
+[46380]no higher id
+
+[46380]now leader is: 46380
+
+[46380]start to send victory message
+
+[46380]start election
+
+[46380]no higher id
+
+[46380]now leader is: 46380
+
+[46380]start to send victory message
+
+[21249]sent im alive to  13322
+
+[21249]received elsect msg,start election
+
+[21249]received victory message
+
+[21249]received victory message
+
+[21249]received victory message
+
+[12484]received alive message
+
+[12484]wait for victory message...
+
+[12484]received victory message
+
+[12484]victory message updated
+
+[12484]now leader is: 46380
+
+[21249]start election
+
+[20575]sent im alive to  12484
+
+[20575]received victory message
+
+[20575]victory message updated
+
+[20575]now leader is: 46380
+
+[20575]received alive message
+
+[20575]received alive message
+
+[20575]sent im alive to  13322
+
+[20575]received elsect msg,start election
+
+[20575]received victory message
+
+[20575]received victory message
+
+[20575]received victory message
+
+[21249]sending elect message
+
+[21249]waiting for alive message
+
+[46380]sent im alive to  21249
+
+[46380]received elsect msg,start election
+
+[12484]received alive message
+
+[12484]received victory message
+
+[12484]received victory message
+
+[12484]received victory message
+
+[12484]received alive message
+
+[46380]start election
+
+[46380]no higher id
+
+[46380]now leader is: 46380
+
+[46380]start to send victory message
+
+[20575]start election
+
+[20575]sending elect message
+
+[20575]waiting for alive message
+
+[46380]start election
+
+[46380]no higher id
+
+[46380]now leader is: 46380
+
+[46380]start to send victory message
+
+[46380]sent im alive to  20575
+
+[46380]received elsect msg,start election
+
+[13322]sent im alive to  12484
+
+[13322]received victory message
+
+[13322]victory message updated
+
+[13322]now leader is: 46380
+
+[13322]received alive message
+
+[21249]received alive message
+
+[13322]received victory message
+
+[13322]received victory message
+
+[21249]wait for victory message...
+
+[13322]received victory message
+
+[13322]received alive message
+
+[21249]received victory message
+
+[13322]received alive message
+
+[13322]received victory message
+
+[21249]sent im alive to  20575
+
+[13322]received victory message
+
+[21249]received victory message
+
+[46380]start election
+
+[46380]no higher id
+
+[46380]now leader is: 46380
+
+[46380]start to send victory message
+
+[12484]received victory message
+
+[12484]received victory message
+
+[12484]received alive message
+
+[12484]received victory message
+
+[20575]received victory message
+
+[20575]received victory message
+
+[20575]received alive message
+
+[20575]received alive message
+
+[20575]received victory message
+
+[20575]wait for victory message...
+
+[13322]received victory message
+
+[21249]received victory message
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[20575]I have detected leader is down
+
+[20575]start election
+
+[20575]sending elect message
+
+[20575]waiting for alive message
+
+[46380]sent im alive to  20575
+
+[46380]received elsect msg,start election
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[21249]sent im alive to  20575
+
+[21249]received elsect msg,start election
+
+[20575]received alive message
+
+[20575]wait for victory message...
+
+[20575]received alive message
+
+[21249]start election
+
+[21249]sending elect message
+
+[21249]I have detected leader is down
+
+[21249]start election
+
+[21249]sending elect message
+
+[21249]waiting for alive message
+
+[21249]waiting for alive message
+
+[46380]sent im alive to  21249
+
+[46380]received elsect msg,start election
+
+[46380]sent im alive to  21249
+
+[46380]received elsect msg,start election
+
+[46380]start election
+
+[46380]no higher id
+
+[46380]now leader is: 46380
+
+[46380]start to send victory message
+
+[46380]start election
+
+[46380]no higher id
+
+[46380]now leader is: 46380
+
+[46380]start to send victory message
+
+[20575]received victory message
+
+[20575]victory message updated
+
+[20575]now leader is: 46380
+
+[20575]received victory message
+
+[12484]received victory message
+
+[12484]victory message updated
+
+[12484]now leader is: 46380
+
+[46380]start election
+
+[46380]no higher id
+
+[46380]now leader is: 46380
+
+[46380]start to send victory message
+
+[12484]received victory message
+
+[12484]received victory message
+
+[13322]received victory message
+
+[13322]victory message updated
+
+[13322]now leader is: 46380
+
+[13322]received victory message
+
+[13322]received victory message
+
+[20575]received victory message
+
+[21249]received alive message
+
+[21249]wait for victory message...
+
+[21249]received alive message
+
+[21249]received victory message
+
+[21249]victory message updated
+
+[21249]received victory message
+
+[21249]victory message updated
+
+[21249]now leader is: 46380
+
+[21249]now leader is: 46380
+
+[21249]received victory message
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[12484]I have detected leader is down
+
+[12484]start election
+
+[12484]sending elect message
+
+[12484]waiting for alive message
+
+[13322]sent im alive to  12484
+
+[20575]I have detected leader is down
+
+[20575]start election
+
+[20575]sending elect message
+
+[20575]waiting for alive message
+
+[13322]I have detected leader is down
+
+[13322]start election
+
+[13322]sending elect message
+
+[13322]waiting for alive message
+
+[21249]I have detected leader is down
+
+[21249]start election
+
+[21249]sending elect message
+
+[21249]waiting for alive message
+
+[20575]sent im alive to  12484
+
+[20575]sent im alive to  13322
+
+[12484]received alive message
+
+[13322]received alive message
+
+[12484]wait for victory message...
+
+[13322]wait for victory message...
+
+[12484]received alive message
+
+[21249]sent im alive to  12484
+
+[21249]sent im alive to  20575
+
+[21249]sent im alive to  13322
+
+[13322]received alive message
+
+[20575]received alive message
+
+[20575]wait for victory message...
+
+[12484]received alive message
+
+[21249]wait till timeout,sending victory...
+
+[21249]now leader is: 21249
+
+[21249]start to send victory message
+
+[12484]received victory message
+
+[12484]victory message updated
+
+[12484]now leader is: 21249
+
+[20575]received victory message
+
+[20575]victory message updated
+
+[20575]now leader is: 21249
+
+[13322]received victory message
+
+[13322]victory message updated
+
+[13322]now leader is: 21249
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[21249]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]start election
+
+[46380]no higher id
+
+[46380]now leader is: 46380
+
+[46380]start to send victory message
+
+[46380]sent im alive to  12484
+
+[46380]received elsect msg,start election
+
+[46380]sent im alive to  20575
+
+[46380]received elsect msg,start election
+
+[46380]sent im alive to  13322
+
+[46380]received elsect msg,start election
+
+[46380]sent im alive to  21249
+
+[46380]received elsect msg,start election
+
+[46380]received victory message
+
+[21249]received victory message
+
+[21249]victory message updated
+
+[21249]now leader is: 46380
+
+[21249]received alive message
+
+[13322]received victory message
+
+[20575]received victory message
+
+[13322]victory message updated
+
+[20575]victory message updated
+
+[13322]now leader is: 46380
+
+[20575]now leader is: 46380
+
+[20575]received alive message
+
+[13322]received alive message
+
+[46380]start election
+
+[46380]no higher id
+
+[46380]now leader is: 46380
+
+[46380]start to send victory message
+
+[21249]received victory message
+
+[20575]received victory message
+
+[12484]received victory message
+
+[12484]victory message updated
+
+[12484]now leader is: 46380
+
+[12484]received alive message
+
+[12484]received victory message
+
+[13322]received victory message
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+
+[46380]heartbeat
+

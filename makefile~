@@ -1,0 +1,39 @@
+CFILE = $(wildcard ./*.c)
+CPP_FILE = $(wildcard ./*.cpp)
+
+OBJ_DIR = ./obj
+
+O_C = $(patsubst ./%.c, $(OBJ_DIR)/%.o, $(CFILE))
+O_CPP = $(patsubst ./%.cpp, $(OBJ_DIR)/%.o, $(CPP_FILE))
+O_SRC = $(O_C) $(O_CPP)
+
+MAIN_SRC = main.cpp
+EXE_SRC = hoste.cpp
+
+TARGET_DIR = .
+TARGET_CLIENT = $(TARGET_DIR)
+TARGET_SERVER = $(TARGET_DIR)
+
+TARGETS = $(TARGET_CLIENT) $(TARGET_SERVER)
+
+CC = cc
+GCC = gcc
+GXX = g++
+
+CPP_FLAGS = -g -Wall --std=c++11
+LIB_NAME = -lpthread
+
+FLAGS = $(LIB_NAME)
+
+all : $(TARGETS)
+
+$(TARGET_CLIENT) : $(O_SRC)
+	$(GXX) -o $(EXE_SRC) $(FLAGS) --std=c++11
+
+$(TARGET_SERVER) : $(O_SRC)
+	$(GXX) -o $(MAIN_SRC) $(FLAGS) --std=c++11
+
+$(OBJ_DIR)/%.o : %.cpp
+	$(GXX) $(CPP_FLAGS) $(FLAGS) -c $< -o --std=c++11
+clean:
+	rm $(OBJ_DIR)/*
